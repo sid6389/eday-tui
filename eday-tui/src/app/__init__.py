@@ -1,0 +1,1 @@
+"""PyTUI File Manager package."""
